@@ -6,7 +6,7 @@ Created on 6 Feb 2017
 import platform
 
 def main():
-    print(platform._platform())
+    print(platform.platform())
     return
 
 
